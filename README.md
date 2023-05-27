@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I dont know what I'm doing
+
 <!--
 **cevoj35/cevoj35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
